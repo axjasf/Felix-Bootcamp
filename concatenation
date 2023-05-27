@@ -1,0 +1,3 @@
+my_string_1 = "I like cheese"
+my_string_2 = ", and my favorite color is red.  "
+print (my_string_1 + my_string_2)

@@ -1,0 +1,4 @@
+message123 = "Hi Bruh!!"
+print(message123.upper())  
+print(message123.lower())  
+print(message123.split())
